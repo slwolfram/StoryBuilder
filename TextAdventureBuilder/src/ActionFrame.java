@@ -15,8 +15,10 @@ public class ActionFrame extends JFrame {
 
 	public ActionFrame(Object object, Object object2, Object object3) {
 		/*
+		 * 
 		 * if (id == null) id = ""; if (event == null) event = ""; if (action == null)
 		 * action = "";
+		 * 
 		 */
 		setSize(375, 330);
 		setLayout(new ParagraphLayout());
