@@ -18,7 +18,6 @@ public class ActionFrame extends JFrame {
 		 * if (id == null) id = ""; if (event == null) event = ""; if (action == null)
 		 * action = "";
 		 */
-		//blah
 		setSize(375, 330);
 		setLayout(new ParagraphLayout());
 		JLabel idLabel = new JLabel("Action ID:");
